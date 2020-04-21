@@ -1,0 +1,4 @@
+Link of Django Workshop 1 Presentation: https://tinyurl.com/Django1920
+Link of Django Workshop 2 Presentation: https://tinyurl.com/Django1920pt2
+Link of Django Workshop 2 Video: https://www.youtube.com/watch?v=WpFaHfczTCE
+Link of Django Workshop 2 Q&A Video: https://www.youtube.com/watch?v=9hbNH0si6vk&t=2497s
